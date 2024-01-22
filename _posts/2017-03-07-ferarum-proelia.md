@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lorem ipsum
+date: 2022-09-20
 tags: ['some tag']
 ---
 
