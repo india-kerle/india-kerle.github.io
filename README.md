@@ -1,6 +1,8 @@
 # minimal-academic-website
 
-my personal website 
+my personal website
+
+[link here](https://india-kerle.github.io/)
 
 ## ⚖️  License
 
