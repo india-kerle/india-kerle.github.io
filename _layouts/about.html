@@ -19,11 +19,11 @@
 
       <div class="row">
         <!-- Add the title here -->
-        <h2>Previous Posts</h2>
+        <p><strong>Previous Posts</strong></p>
 
         <!-- Loop through and display posts -->
         {% for post in site.posts %}
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>, {{ post.date | date: "%B %d, %Y" }}<br>
+          -- <a href="{{ post.url | relative_url }}">{{ post.title }}</a>, {{ post.date | date: "%B %d, %Y" }}<br>
         {% endfor %}
       </div>
 
