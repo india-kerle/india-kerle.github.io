@@ -1,31 +1,71 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Courier New', monospace;
     margin: 0;
     padding: 0;
 }
 
-header, nav, footer {
-    background-color: #333;
-    color: white;
+/* Add this to the end of your existing style.css */
+
+.about-me {
     text-align: center;
-    padding: 1em;
+    margin: 20px; /* Add margin for spacing */
 }
 
-nav ul {
+.about-me img {
+    border-radius: 50%;
+    max-width: 150px;
+    max-height: 150px;
+    margin: 0 auto;
+    display: block;
+}
+
+.about-me h2 {
+    margin-top: 10px; /* Add some spacing between image and heading */
+}
+
+.about-me p {
+    text-align: justify;
+}
+
+.social-icons {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.social-icons a {
+    color: #333;
+    font-size: 24px;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: #007bff;
+}
+
+#posts {
+    padding: 20px;
+}
+
+#posts h2 {
+    text-align: center;
+}
+
+#posts ul {
     list-style-type: none;
     padding: 0;
 }
 
-nav li {
-    display: inline;
-    margin-right: 20px;
+#posts li {
+    margin-bottom: 10px;
 }
 
-a {
-    color: white;
+#posts a {
     text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
 }
 
-a:hover {
+#posts a:hover {
     text-decoration: underline;
 }
