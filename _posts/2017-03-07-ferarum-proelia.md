@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lorem ipsum
+title: Lorem ipsum whatever 
 date: 2017-03-07
 tags: ['some tag']
 draft: false
