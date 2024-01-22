@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="container">
+
+      {% for post in site.posts limit:1 %}
+          <div class="row" style="text-align:right; margin-bottom:3%;">
+            <small>{{ post.date | date_to_string }}</small>
+          </div>
+          <div class="row" style="margin-bottom:3%;">
+            <h5>{{ post.title }}</h5>
+          </div>
+          {{ post.content }}
+      {% endfor %}
+
+      {% include footer.html %}
+
+    </div>
+  </body>
+
+</html>
