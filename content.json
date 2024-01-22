@@ -1,0 +1,21 @@
+{
+  "theme":       "default",
+  "name":        "India Kerle",
+  "bio":         "Currently @ExplosionAI | Usually @NestaUK",
+  "description": "",
+  "host":        "https://india-kerle.github.io/minimal/default",
+  "analytics":   "<script type=\"text/javascript\"></script>",
+  "feeds": [
+    { "type": "application/atom+xml", "url": "{{{root}}}blog/feed.atom"},
+    { "type": "application/rss+xml",  "url": "{{{root}}}blog/feed.rss"}
+  ],
+  "links": [
+    { "name": "Twitter", "symbol": "&#xe286;", "url": "https://www.twitter.com/IndiaKerle" },
+    { "name": "GitHub",  "symbol": "&#xe237;", "url": "https://github.com/india-kerle" },
+    { "name": "RSS",     "symbol": "&#xe271;", "url": "{{{root}}}blog/feed.atom" }
+  ],
+  "pages": [
+    { "name": "Blog",     "url": "{{{root}}}",         "visible": true },
+    { "name": "Projects", "url": "{{{root}}}projects", "visible": true }
+  ]
+}
