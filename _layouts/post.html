@@ -12,7 +12,7 @@
       <div class="row" style="margin-top: 10%">
 
         <div class="row" style="text-align:right; margin-bottom:3%;">
-          <small>{{ site.time | date: "%B %d, %Y" }}</small>
+          <small>{{ page.date | date_to_string }}</small>
         </div>
 
         <div class="row" style="margin-bottom:3%;">
@@ -26,8 +26,6 @@
       <hr>
 
       <div class="row" style="text-align:center; margin-top: 10%; margin-bottom: 10%">
-
-        <a href="/about">About</a>
 
       </div>
 
