@@ -9,27 +9,29 @@
 
     <div class="container">
 
-      <div class="row" style="margin-top: 10%">
-
-        <div class="row" style="text-align:right; margin-bottom:3%;">
-          <small>{{ page.date | date_to_string }}</small>
-        </div>
-
-        <div class="row" style="margin-bottom:3%;">
-          <h5>{{ page.title }}</h5>
-        </div>
+      <div class="row">
 
         {{ content }}
 
+        <hr>
+
       </div>
 
-      <hr>
-
-      <div class="row" style="text-align:center; margin-top: 10%; margin-bottom: 10%">
-
+      <div class="row">
+        {% for post in site.posts %}
+          {% assign date_parts = post.name | split: '-' %}
+          {% assign year = date_parts[0] %}
+          {% assign month = date_parts[1] %}
+          {% assign day = date_parts[2] | split: '.' | first %} {# Remove file extension if present #}
+          
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>, {{ day }} {{ month_names[month | plus: 0] }} {{ year }}<br>
+        {% endfor %}
       </div>
 
     </div>
+
+    {% include footer.html %}
+
   </body>
 
 </html>
