@@ -4,6 +4,10 @@ title: "👋"
 permalink: /about
 ---
 
+<div style="text-align:center">
+  <img src="images/portrait.jpg" alt="me" style="border-radius: 10px;" width="200;" height="200;"/>
+</div>
+
 **👋** 
 I'm India.
 
