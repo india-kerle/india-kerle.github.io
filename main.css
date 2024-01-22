@@ -1,5 +1,5 @@
 html {
-    font-family: 'Courier Prime', sans-serif;
+    font-family: 'Courier Prim', sans-serif;
     font-size: larger;
     font-weight: 300;
 }
@@ -15,10 +15,10 @@ a:hover {
 
 #content {
     position: absolute;
-    top: 50%;
+    top: 20%; /* Adjust the value to leave space at the top */
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -50%) ;
+    transform: translate(-50%, -50%);
     text-align: center;
     max-width: 520px;
     padding: 32px;
