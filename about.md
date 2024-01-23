@@ -18,7 +18,7 @@ I'm usually a Data Scientist at [Nesta](nesta.org.uk), the UK's innovation agenc
 I'm the co-creator of `ojd-daps-skills`, Nesta's [skills extractor python library.](https://pypi.org/project/ojd-daps-skills/) 
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <a href="https://twitter.com/KerleIndia" target="_blank">
+    <a href="https://twitter.com/IndiaKerle" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat" alt="Twitter">
     </a>
     <a href="https://www.linkedin.com/in/india-kerle-13133789/" target="_blank">
