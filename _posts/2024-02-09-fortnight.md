@@ -19,7 +19,7 @@ These types of outputs inform many of the technical decisions we make, from the 
 
 Meanwhile, the story is, somewhat predictably, different at a product-orientated tech start up. There is much more of a focus on things like CI/CD, type checking and documentation. I've learned about tools like [`pyright`](https://github.com/microsoft/pyright), a standards-based static type checker, to ensure type compliance and I've focused more on testing. 
 
-Long story short, I think its about **_being flexible, proportionate and having the tool box to adapt_** to meeting the needs of whatever outputs your delivering.
+Long story short, I think its about **_being flexible, proportionate and having the tool box to adapt_** to meeting the needs of whatever outputs you're delivering.
 
 👯 **Open source means taking seriously your community.**
 
