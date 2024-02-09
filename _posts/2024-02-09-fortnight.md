@@ -19,13 +19,15 @@ These types of outputs inform many of the technical decisions we make, from the 
 
 Meanwhile, the story is, somewhat predictably, different at a product-orientated tech start up. There is much more of a focus on things like CI/CD, type checking and documentation. I've learned about tools like [`pyright`](https://github.com/microsoft/pyright), a standards-based static type checker, to ensure type compliance and I've focused more on testing. 
 
-Long story short, I think its about being flexible, proportionate and having the tool box to adapt to meeting the needs of whatever outputs your delivering. 
+Long story short, I think its about **_being flexible, proportionate and having the tool box to adapt_** to meeting the needs of whatever outputs your delivering.
 
 👯 **Open source means taking seriously your community.**
 
-Given Explosion's central position in the open source Python eco-system, I've already witnessed just how important engaging with and the wider community is. The team takes seriously meaningfully engaging with the community, from the considered responses to issues on [their support forums](https://support.prodi.gy/) to regular blog posts, [case studies](https://explosion.ai/blog/nesta-skills), tutorials and even [a page on their website](https://explosion.ai/_/category/universe) highlighting the community's use of spaCy and Prodigy. I can also image that the tight feedback loop is helpful for informing the development of their tools.
+Given Explosion's central position in the open source Python eco-system, I've already witnessed just how important engaging with and the wider community is. The team takes seriously meaningfully engaging with the community, from the considered responses to issues on [their support forums](https://support.prodi.gy/) to regular blog posts, [case studies](https://explosion.ai/blog/nesta-skills), tutorials and even [a page on their website](https://explosion.ai/_/category/universe) highlighting the community's use of spaCy and Prodigy. I can also image that **_the tight feedback loop is helpful for informing the development of their tools_**.
 
-![forum_screenshot](images/first_forum_response.jpg)
+<div style="text-align: center;">
+    <img src="./images/first_forum_response.jpg" alt="forum_screenshot" width="400" style="max-width: 100%;"/>
+</div>
 
 It's given me food for thought in my own work at Nesta and how we can best set up these feedback loops when building solutions like the [Skills Extractor](https://github.com/nestauk/ojd_daps_skills) or the [Green Jobs Explorer](https://github.com/nestauk/dap_prinz_green_jobs?tab=readme-ov-file#green-jobs-explorer). 
 
