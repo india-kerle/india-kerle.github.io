@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 'Initial thoughts from the first two weeks'
+title: '😱💥: two-weeks-in update'
 date: 2024-02-09
 draft: false
 ---
-
-## 😱💥
 
 I kicked off my 3-month sabbatical two weeks ago to Explosion AI and have been largely figuring out where I am in time and space with the work and the team. 
 
@@ -13,7 +11,7 @@ It's been a lovely introduction thus far: I've had coffee chats with the team an
 
 Off the bat, **two things** have already struck me: 
 
-### 1. **What you're building informs how you build it.**
+1. 🏗️ **What you're building informs how you build it.**
 
 The role of data science in a product-oriented tech start up like Explosion AI is very different to a non-profit. At Nesta, methodologies fuel outputs like research papers, policy recommendations and prototypes. 
 
@@ -23,11 +21,11 @@ Meanwhile, the story is, somewhat predictably, different at a product-orientated
 
 Long story short, I think its about being flexible, proportionate and having the tool box to adapt to meeting the needs of whatever outputs your delivering. 
 
-### 2. **Open source means taking seriously your community.**
+2. 👯 **Open source means taking seriously your community.**
 
 Given Explosion's central position in the open source Python eco-system, I've already witnessed just how important engaging with and the wider community is. The team takes seriously meaningfully engaging with the community, from the considered responses to issues on [their support forums](https://support.prodi.gy/) to regular blog posts, [case studies](https://explosion.ai/blog/nesta-skills), tutorials and even [a page on their website](https://explosion.ai/_/category/universe) highlighting the community's use of spaCy and Prodigy. I can also image that the tight feedback loop is helpful for informing the development of their tools.
 
-![forum_screenshot](/images/first_forum_response.png, "My first answer to Prodigy's support forum")
+![forum_screenshot](images/first_forum_response.png)
 
 It's given me food for thought in my own work at Nesta and how we can best set up these feedback loops when building solutions like the [Skills Extractor](https://github.com/nestauk/ojd_daps_skills) or the [Green Jobs Explorer](https://github.com/nestauk/dap_prinz_green_jobs?tab=readme-ov-file#green-jobs-explorer). 
 
