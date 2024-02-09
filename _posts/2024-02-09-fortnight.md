@@ -27,7 +27,7 @@ Given Explosion's central position in the open source Python eco-system, I've al
 
 <figure style="text-align: center;">
     <img src="./images/first_forum_response.jpg" alt="forum_screenshot" width="400" style="max-width: 100%;"/>
-    <figcaption>My first Prodigy support form response!</figcaption>
+    <figcaption style="font-size: 8px;">My first Prodigy support forum response!</figcaption>
 </figure>
 
 
