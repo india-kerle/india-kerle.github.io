@@ -26,7 +26,7 @@ Long story short, I think its about **_being flexible, proportionate and having 
 Given Explosion's central position in the open source Python eco-system, I've already witnessed just how important engaging with and the wider community is. The team takes seriously meaningfully engaging with the community, from the considered responses to issues on [their support forums](https://support.prodi.gy/) to regular blog posts, [case studies](https://explosion.ai/blog/nesta-skills), tutorials and even [a page on their website](https://explosion.ai/_/category/universe) highlighting the community's use of spaCy and Prodigy. I can also image that **_the tight feedback loop is helpful for informing the development of their tools_**.
 
 <figure style="text-align: center;">
-    <img src="./images/first_forum_response.jpg" alt="forum_screenshot" width="400" style="max-width: 100%;"/>
+    <img src="/images/first_forum_response.jpg" alt="forum_screenshot" width="400" style="max-width: 100%;"/>
     <figcaption style="font-size: 12px;">My first Prodigy support forum response!</figcaption>
 </figure>
 
